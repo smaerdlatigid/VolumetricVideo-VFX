@@ -1,5 +1,5 @@
 # Volumetric-Video
-The Unity VFX graph to used to render videos with depth, point cloud animations and other forms of 3D data. 
+The Unity VFX graph to used to render videos with depth (e.g. https://azure.microsoft.com/en-us/services/kinect-dk/). 
 
 ![](volumetric_video.gif)
 
