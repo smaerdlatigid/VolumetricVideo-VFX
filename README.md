@@ -4,3 +4,5 @@ The Unity VFX graph to used to render videos with depth (e.g. https://azure.micr
 ![](volumetric_video.gif)
 
 ![](smoke.gif)
+
+![](azure_kinect.gif)
