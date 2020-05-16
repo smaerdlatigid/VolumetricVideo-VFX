@@ -10,3 +10,7 @@ Unity3D is used to render videos with depth (e.g. https://azure.microsoft.com/en
 
 ## SHADER
 ![](volumetric_video_shader.gif)
+
+No depth map, no problem, use our Hue to Height Shader
+
+![](huetoheight.gif)
